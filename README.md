@@ -1,1 +1,0 @@
-# Numerical-solution-of-three-body-motion
